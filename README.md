@@ -1,4 +1,4 @@
-# README: Case Studies in Financial Risk Modeling and Stock Price Simulation
+# Case Studies in Financial Risk Modeling and Stock Price Simulation
 
 This repository presents two case studies demonstrating how we can use Monte Carlo simulations, portfolio optimization, and Geometric Brownian Motion (GBM) to model and manage financial risk, specifically through Value at Risk (VaR), and to forecast stock price behavior.
 
